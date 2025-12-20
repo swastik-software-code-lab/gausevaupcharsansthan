@@ -2,7 +2,7 @@
 Upchar Sansthan (Hindi content). This README explains what’s included, how to configure the site, how to set up the contact form (EmailJS and Google Sheets via Apps Script), GitHub Pages deployment, and recommended post-launch checks.
 # Repository structure
 / (root)
-├─ index.html
+```├─ index.html```
 ├─ robots.txt
 ├─ sitemap.xml
 ├─ README.md
