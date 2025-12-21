@@ -57,11 +57,11 @@ document.addEventListener('DOMContentLoaded', function () {
     /* ---------- Gallery auto-load ---------- */
     const galleryGrid = document.getElementById('galleryGrid');
     const galleryImages = [
-        'assests/img/GSUS gallery 1.jpeg',
-        'assests/img/GSUS gallery 2.jpeg',
-        'assests/img/GSUS gallery 3.jpeg',
-        'assests/img/GSUS gallery 4.jpeg',
-        'assests/img/GSUS gallery 5.jpeg'
+        'assets/img/GSUS gallery 1.jpeg',
+        'assets/img/GSUS gallery 2.jpeg',
+        'assets/img/GSUS gallery 3.jpeg',
+        'assets/img/GSUS gallery 4.jpeg',
+        'assets/img/GSUS gallery 5.jpeg'
     ];
     galleryImages.forEach(src => {
         const img = document.createElement('img');
