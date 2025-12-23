@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function () {
         'assets/img/GSUS gallery 2.jpeg',
         'assets/img/GSUS gallery 3.jpeg',
         'assets/img/GSUS gallery 4.jpeg',
-        'assets/img/GSUS gallery 5.jpeg'
+        'assets/img/GSUS gallery 5.jpeg',
         'assets/img/GSUS gallery 6.jpeg'
     ];
     galleryImages.forEach(src => {
